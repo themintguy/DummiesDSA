@@ -1,0 +1,35 @@
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# User-specific files
+.idea/*.iml
+.idea/*.iws
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build directories
+out/
+target/
+
+# Gradle
+.gradle/
+build/
+
+# Maven
+.mvn/
+*.log
+
+# Other IDE-specific
+*.swp
+*.swo
+*.bak

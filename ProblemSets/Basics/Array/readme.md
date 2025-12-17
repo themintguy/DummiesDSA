@@ -1,0 +1,17 @@
+- Print Each Element and Its Index in an Array
+- Print Elements of an Array in Reverse Order
+- Print Alternate Elements of an Array
+- Create a Duplicate of an Array
+- Create Two Arrays one for Odd Elements and one for Even Elements
+- Calculate Sum and Product of Array Elements
+- Count Occurrences of a Target Number in an Array
+- Check if an Array is Sorted Forward, Backward or Not at All
+- Count Unique and Duplicate Elements in an Array
+- Check if Two Elements Exist with a Sum Equal to a Target Value
+- Check if Three Elements Exist with a Sum Equal to a Target Value
+- Find the Maximum Element in an Array
+- Find the Minimum Element in an Array
+- Find the Second Maximum Element; if None, Print -1
+- Find the Second Minimum Element; if None, Print -1
+- Insert an Element at the Xth Position, Shifting Right
+- Delete an Element at the Xth Position, Shifting Left

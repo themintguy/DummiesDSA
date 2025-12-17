@@ -1,0 +1,14 @@
+- Print ASCII Value of Each Character in a String
+- Count Letters, Numbers, and Special Characters in a String
+- Find the Difference between the Number of Consonants and Vowels
+- Convert Uppercase to Lowercase and Vice Versa in a String
+- Remove Leading, Trailing, and Extra Spaces in a String
+- Count the Number of Words in a String
+- Find the Maximum and Minimum Occurring Characters in a String
+- Check if There are Two or Three Consecutive Identical Characters in a String
+- Find the First and Last Index of Occurrence for Each Character in a String
+- Check if a String Contains All Letters from 'a' to 'z'
+- Insert a Character at the First, Last, and Kth Position in a String
+- Remove the First, Last, and Kth Character from a String
+- Find a Specific Substring within a String
+- Generate All Possible Substrings of a String
