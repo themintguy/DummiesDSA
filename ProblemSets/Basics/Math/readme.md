@@ -1,0 +1,32 @@
+# Math Practice Problems
+
+- Perform Basic Operations (Addition, Subtraction, Multiplication, Division) using Two Numbers
+- Find the Sum of Digits of a Number
+- Reverse a Given Number
+- Check if a Number is a Palindrome
+- Check if a Number is an Armstrong Number
+- Count the Total Occurrences of the Digit '1' in All Positive Integers Less than or Equal to a Given Integer n
+- Generate Fibonacci Numbers up to a Given Limit
+- Calculate the Factorial of a Number
+- Find the Number of Trailing Zeroes in the Factorial of a Given Number n
+- Calculate the LCM and GCD of Two Numbers
+- Check if a Number is Prime without using the Sieve of Eratosthenes
+- Check if Two Numbers are Co-Prime
+- Find All Divisors of a Given Number
+- Perform Modulo Operations
+- Check Divisibility Rules for Numbers from 1 to 20
+- Count the Number of Prime Numbers in a Range
+- Find the Sum of All Prime Numbers up to N
+- Calculate the Power of a Number without using Built-in Functions
+- Check if a Number is Perfect or Abundant
+- Find the Sum of All Divisors of a Number
+- Check if a Number is a Happy Number
+- Find the Number of Factors of a Number
+- Generate All Pythagorean Triplets up to N
+- Check if Two Numbers Form a Pythagorean Pair
+- Solve the Josephus Problem for a Given N
+- Find the Digital Root of a Number
+- Determine if a Number is a Smith Number
+- Compute the Nth Catalan Number
+- Check if a Number is a Harshad (Niven) Number
+- Find the Sum of Squares or Cubes up to N
